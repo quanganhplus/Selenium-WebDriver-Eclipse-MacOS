@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class Topic_02_Template {
+public class Topic_02_Xpath_Css {
     //Khai báo 1 biến đại diện cho Selenium WebDriver
     WebDriver driver;
     String projectPath = System.getProperty("user.dir");
